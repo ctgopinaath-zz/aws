@@ -1,0 +1,21 @@
+)What is the difference between on demand instance and spot instance.
+2)What you know about AMI
+3)What is EIP and how it works.if instance is removed is  EIP will detached?
+4)How many subnets mask require while creating VPC
+Tell details on VPC and .
+5) Is it possible to use S3 with EC2 instances and how?
+6) What is GIT fetch and GIT pull
+7) What is GIT rebase?
+8)What is GIT stash.
+9) GIT is based on which language.
+10) Explain Jenkins CI and build details, how pipeline works.
+11) where we can how many users are logged in Linux server.
+12) what command used to check how many files are opened in Unix host.
+13)How to create source repository in GIT
+14) What is IOT, SNS and SQS 
+15)What is NGIOS , on what purpose we are using this monitoring tool.
+16)What is the work on APache and Tomcat  ?
+17) How to install NGINX.
+
+18)Explain layers of cloud services.
+
